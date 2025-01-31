@@ -1,6 +1,8 @@
 # rackforge
 is a fully parametric 3D printable eurorack case, which you can modify to your needs. 
 
+![img](img/header.jpg)
+
 It's currently still work in progress, but already features:
 
 - threaded strips or sliding nuts
@@ -17,6 +19,13 @@ Upcoming:
 
 # open source
 As all my projects, you can freely use, modify and sell these (commercial use only if you own a full Onshape license!). I'd love to hear your feedback to make this project even better.
+
+# next steps
+- proper test print with 20-30HP
+- testing wooden side panels
+- testing power breakout once PCBs arrive
+- uploading first set of files once basic testing completes
+
 
 I'd love to see your creations! Tag me on Instagram or send me a photo to add here.
 Check out my music on [YouTube](https://www.youtube.com/finnglink) or [Instagram](https://www.instagram.com/glnnk.art).
